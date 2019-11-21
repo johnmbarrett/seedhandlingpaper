@@ -1,3 +1,3 @@
 # seedhandlingpaper
 
-Code will be made available on publication.
+Code has been moved to https://sourceforge.net/p/seed-handling-paper 
